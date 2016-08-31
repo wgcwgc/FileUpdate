@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android私有文件读写操作</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="file_name">文件名</string>
+    <string name="file_content">文件内容</string>
+    <string name="save">保存</string>
+    <string name="file_null">文件名或内容为空!</string>
+    <string name="sdcard_error">SDCard不存在或不是可读写状态!</string>
+    <string name="success">文件保存成功！</string>
+    <string name="failed">文件保存失败！</string>
+
+</resources>
